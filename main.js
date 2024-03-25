@@ -5,6 +5,7 @@ const firebaseConfig = {
     authDomain: "database-bc-88916.firebaseapp.com",
 
     projectId: "database-bc-88916",
+databaseURL: "https://database-bc-88916-default-rtdb.firebaseio.com",
 
     storageBucket: "database-bc-88916.appspot.com",
 
