@@ -1,19 +1,13 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 const firebaseConfig = {
-  apiKey: "AIzaSyDidrzsS0SuP5JPryUkS6zJ0zdur2ir0RQ",
-
-    authDomain: "database-bc-88916.firebaseapp.com",
-
-    projectId: "database-bc-88916",
-databaseURL: "https://database-bc-88916-default-rtdb.firebaseio.com",
-
-    storageBucket: "database-bc-88916.appspot.com",
-
-    messagingSenderId: "162620117945",
-
-    appId: "1:162620117945:web:83e63c804c3a867b2d1c68",
-
-    measurementId: "G-882YHRYGZ7"
+    apiKey: "AIzaSyAW4cTAsG2QiXXGvS2FyOwZYbR_BqCQDXM",
+    authDomain: "contactform-37fe3.firebaseapp.com",
+    databaseURL: "https://contactform-37fe3-default-rtdb.firebaseio.com",
+    projectId: "contactform-37fe3",
+    storageBucket: "contactform-37fe3.appspot.com",
+    messagingSenderId: "831163231244",
+    appId: "1:831163231244:web:71517d64004b77358a9229",
+    measurementId: "G-F7SMDYVPSZ"
 
       
   
